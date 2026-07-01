@@ -1,0 +1,801 @@
+EmployeeID,LeaveType,StartDate,EndDate,Reason,ApprovalStatus
+455,Paid,2025-02-14,2025-02-16,Libero aperiam sint repellat.,Approved
+274,Paid,2025-11-24,2025-11-26,Unde quae enim labore temporibus at dolorum consectetur.,Approved
+78,Emergency,2025-11-16,2025-11-17,Ex enim error deleniti nobis.,Approved
+239,Casual,2025-07-06,2025-07-08,Maiores saepe eos enim cupiditate.,Approved
+117,Paid,2025-09-11,2025-09-12,Atque provident itaque magnam odit fugiat.,Approved
+439,Casual,2025-08-19,2025-08-21,Assumenda cupiditate nemo ratione beatae.,Rejected
+230,Paid,2025-06-09,2025-06-12,Accusantium quae vitae beatae.,Rejected
+477,Paid,2025-09-01,2025-09-03,Sapiente nostrum veniam sint eaque.,Approved
+15,Emergency,2025-09-27,2025-10-01,Delectus cumque praesentium itaque sapiente officia eaque.,Approved
+60,Paid,2025-07-27,2025-07-31,Eos ex ipsam qui.,Approved
+461,Sick,2025-07-29,2025-08-03,Numquam aut repellendus voluptatem nam ipsam.,Rejected
+275,Paid,2025-10-05,2025-10-10,Exercitationem id suscipit tempore ducimus reprehenderit dolores.,Approved
+461,Sick,2025-08-28,2025-08-29,Necessitatibus corporis blanditiis at praesentium.,Approved
+111,Paid,2025-05-11,2025-05-12,Blanditiis voluptate tempora et repudiandae sit.,Approved
+130,Emergency,2025-06-07,2025-06-09,Reiciendis eos repellat ullam sit.,Approved
+263,Paid,2025-07-13,2025-07-17,Pariatur maiores ab consectetur.,Approved
+83,Paid,2025-02-27,2025-03-02,Iure officiis cupiditate non velit.,Approved
+47,Emergency,2025-02-07,2025-02-09,Nostrum perferendis vitae ducimus voluptas aliquam.,Approved
+410,Casual,2025-11-05,2025-11-08,Quam autem laboriosam sequi.,Approved
+85,Sick,2025-06-04,2025-06-08,Praesentium deleniti cumque perferendis accusantium optio quis repudiandae.,Approved
+436,Casual,2025-06-04,2025-06-06,Veritatis quisquam cum velit dolorem fuga.,Approved
+172,Casual,2025-01-19,2025-01-23,Totam quasi quis.,Approved
+30,Paid,2025-04-01,2025-04-06,Laborum illum recusandae quod error debitis.,Pending
+350,Sick,2025-02-02,2025-02-05,Aperiam vel sequi alias.,Approved
+383,Emergency,2025-09-27,2025-09-28,Sapiente nihil ducimus.,Approved
+281,Emergency,2025-04-13,2025-04-17,Minima maxime sapiente officiis vero ipsam nemo.,Approved
+1,Emergency,2025-02-12,2025-02-13,Sunt deserunt voluptate officia deleniti.,Rejected
+485,Casual,2025-12-18,2025-12-19,Quibusdam totam cupiditate.,Approved
+458,Casual,2025-11-17,2025-11-18,Voluptatum libero quibusdam iure vel fuga.,Approved
+471,Sick,2025-03-09,2025-03-12,Deserunt reiciendis dolor cumque.,Approved
+232,Sick,2025-11-21,2025-11-25,Ad a quia consectetur hic.,Approved
+3,Sick,2025-03-22,2025-03-24,Ipsam voluptatem corporis iusto nihil.,Approved
+422,Emergency,2025-07-08,2025-07-12,Eligendi dolores quod placeat.,Approved
+135,Paid,2025-06-19,2025-06-23,Iure iste quo quaerat optio nihil maxime.,Pending
+145,Casual,2025-06-08,2025-06-11,Ab tempora possimus distinctio vero.,Approved
+398,Sick,2025-06-19,2025-06-22,In nihil maxime libero similique distinctio.,Approved
+282,Paid,2025-10-07,2025-10-11,Alias voluptate deleniti cupiditate adipisci alias.,Pending
+309,Sick,2025-09-22,2025-09-26,Dolor ipsa illo quibusdam aut.,Approved
+95,Emergency,2025-04-14,2025-04-16,Omnis minus vel sint totam.,Approved
+460,Emergency,2025-05-02,2025-05-05,Repellat quidem nulla.,Approved
+167,Paid,2025-08-27,2025-09-01,Molestias dolore nisi quaerat ipsam fuga excepturi.,Approved
+298,Sick,2025-06-25,2025-06-28,Temporibus a nostrum sit ut recusandae maiores at.,Approved
+255,Paid,2025-11-09,2025-11-13,Accusamus blanditiis blanditiis velit.,Approved
+342,Paid,2025-05-18,2025-05-21,Deserunt molestiae praesentium natus eaque dolorum.,Approved
+199,Sick,2025-06-12,2025-06-16,Eius perspiciatis blanditiis.,Approved
+136,Paid,2025-02-05,2025-02-09,Expedita nesciunt est assumenda beatae eveniet.,Rejected
+183,Sick,2025-09-24,2025-09-26,Modi nihil sequi corporis ducimus fugiat et.,Pending
+70,Casual,2025-10-22,2025-10-27,Facere temporibus a quia inventore doloremque corrupti.,Approved
+186,Sick,2025-03-05,2025-03-08,Impedit beatae nulla quas aut.,Approved
+302,Emergency,2025-08-29,2025-09-01,Vel iusto earum.,Approved
+288,Emergency,2025-11-21,2025-11-23,Fugit qui fugiat esse perspiciatis ab nulla.,Approved
+265,Sick,2025-01-02,2025-01-03,Iste animi nobis.,Approved
+249,Casual,2025-09-25,2025-09-27,Mollitia asperiores corporis quibusdam repellat minus doloremque.,Approved
+62,Casual,2025-10-01,2025-10-03,Est quidem incidunt quas at dolor.,Approved
+321,Emergency,2025-11-23,2025-11-25,Recusandae impedit vel neque exercitationem.,Approved
+289,Emergency,2025-04-28,2025-05-03,Nesciunt numquam soluta impedit illo qui molestiae.,Approved
+276,Emergency,2025-10-26,2025-10-31,Occaecati repudiandae maiores aut non impedit voluptate dolore.,Approved
+20,Casual,2025-02-12,2025-02-15,Veniam quod beatae magnam odit.,Rejected
+105,Casual,2025-11-28,2025-11-30,Explicabo delectus illum dignissimos nam.,Approved
+95,Paid,2025-08-05,2025-08-10,Rem necessitatibus deserunt iste optio.,Approved
+387,Emergency,2025-09-11,2025-09-14,Sunt voluptatem rerum sit.,Rejected
+64,Emergency,2025-07-24,2025-07-25,Velit eveniet sunt aperiam praesentium culpa necessitatibus enim.,Approved
+378,Emergency,2025-12-02,2025-12-05,Nobis error omnis porro magni accusantium.,Approved
+274,Paid,2025-02-22,2025-02-23,Dolores qui natus consequatur ipsa distinctio quidem.,Pending
+116,Casual,2025-03-16,2025-03-17,Nam quaerat consequatur porro.,Approved
+289,Paid,2025-02-12,2025-02-15,Molestiae dicta sint nisi architecto.,Rejected
+115,Sick,2025-11-13,2025-11-17,Similique debitis quidem.,Approved
+285,Casual,2025-06-13,2025-06-17,Illum maxime alias atque voluptas.,Approved
+78,Casual,2025-10-07,2025-10-12,Sapiente quibusdam quia quia.,Approved
+362,Emergency,2025-03-19,2025-03-24,Quibusdam odio explicabo alias voluptatibus.,Approved
+255,Emergency,2025-08-17,2025-08-22,Minus soluta hic vitae dolorum nesciunt illo.,Pending
+462,Paid,2025-06-16,2025-06-18,Quaerat odit veritatis similique sunt.,Rejected
+76,Sick,2025-10-20,2025-10-24,Perspiciatis totam inventore quidem consequatur impedit alias.,Approved
+448,Paid,2025-01-25,2025-01-28,Mollitia iste molestias aut temporibus modi.,Approved
+336,Paid,2025-04-17,2025-04-22,Inventore reprehenderit fugit rerum quas laboriosam quisquam.,Approved
+102,Sick,2025-02-27,2025-03-03,Blanditiis non facere officia nemo culpa enim.,Approved
+324,Paid,2025-08-03,2025-08-08,Id inventore fuga alias deserunt.,Approved
+150,Emergency,2025-01-03,2025-01-06,Saepe dolorem aspernatur.,Approved
+379,Sick,2025-01-20,2025-01-23,Amet ea illum iusto est nihil.,Approved
+423,Sick,2025-08-09,2025-08-10,Maiores asperiores similique cupiditate odio cumque.,Pending
+280,Emergency,2025-03-11,2025-03-13,Facere placeat fugiat maxime aperiam asperiores.,Approved
+430,Paid,2025-10-29,2025-11-02,A qui dolor eaque pariatur officiis quisquam iure.,Approved
+493,Casual,2025-07-24,2025-07-27,Assumenda velit inventore earum.,Approved
+475,Sick,2025-08-12,2025-08-16,Cum dolore omnis consequuntur omnis.,Approved
+31,Casual,2025-08-23,2025-08-24,Pariatur quam non vel illum qui.,Approved
+355,Casual,2025-06-06,2025-06-11,Reprehenderit iste nisi quis deleniti illo.,Rejected
+225,Paid,2025-10-17,2025-10-20,Quis dolorum sint ut nesciunt pariatur.,Pending
+215,Paid,2025-03-21,2025-03-26,Minus iusto porro cupiditate.,Approved
+52,Paid,2025-12-07,2025-12-10,Occaecati fuga non magni eum corporis hic.,Pending
+60,Casual,2025-09-23,2025-09-28,Ipsum minus rerum odit perferendis esse itaque.,Approved
+296,Emergency,2025-11-21,2025-11-24,Sapiente ad officia asperiores.,Rejected
+6,Sick,2025-08-13,2025-08-17,Nesciunt assumenda dolorem architecto.,Approved
+304,Paid,2025-03-30,2025-04-01,Numquam harum hic pariatur quam beatae enim.,Approved
+447,Casual,2025-07-28,2025-07-30,Maxime dolores ratione.,Approved
+110,Paid,2025-12-17,2025-12-22,Laboriosam quod eveniet nulla.,Approved
+172,Emergency,2025-11-23,2025-11-28,Facilis ipsum laborum atque incidunt vel distinctio incidunt.,Approved
+445,Casual,2025-02-25,2025-03-02,Numquam quo rem id ex eius.,Approved
+10,Paid,2025-11-01,2025-11-04,Deserunt tenetur quae iste.,Approved
+371,Sick,2025-09-14,2025-09-15,Quaerat magnam ea optio rem blanditiis.,Approved
+202,Paid,2025-03-22,2025-03-25,Alias earum optio adipisci consectetur sit.,Approved
+391,Sick,2025-02-19,2025-02-20,Perspiciatis sed tempore modi incidunt omnis nam.,Approved
+34,Emergency,2025-01-24,2025-01-28,Assumenda qui fugiat hic dolores.,Approved
+161,Paid,2025-06-24,2025-06-28,Optio aut illum labore.,Pending
+58,Casual,2025-10-18,2025-10-20,Porro sit veritatis tempora laborum tempore.,Approved
+11,Sick,2025-12-14,2025-12-15,Fugit modi ex dignissimos quis amet ullam.,Approved
+343,Sick,2025-11-22,2025-11-27,Pariatur ratione officiis illum distinctio dolore.,Pending
+387,Emergency,2025-05-23,2025-05-24,Nobis quos eveniet iure laboriosam.,Approved
+52,Casual,2025-09-04,2025-09-09,Facere mollitia assumenda ea iure debitis.,Approved
+478,Emergency,2025-09-07,2025-09-10,Ipsa a fugiat dolore.,Approved
+244,Casual,2025-04-21,2025-04-26,Accusantium quis asperiores laboriosam quae a.,Approved
+229,Sick,2025-02-23,2025-02-27,Modi praesentium explicabo beatae assumenda dignissimos iusto.,Pending
+371,Emergency,2025-07-30,2025-08-01,Ullam ab minus libero voluptate.,Approved
+315,Sick,2025-04-14,2025-04-19,Vitae nisi dolore est incidunt earum.,Rejected
+307,Casual,2025-06-17,2025-06-20,Dolores occaecati quos in delectus consequuntur ullam.,Pending
+3,Casual,2025-03-02,2025-03-06,Aut laborum recusandae animi ipsa minus.,Approved
+116,Emergency,2025-02-21,2025-02-23,Nemo aliquid repellat suscipit eaque consectetur laboriosam.,Approved
+173,Emergency,2025-11-16,2025-11-17,Error accusantium doloribus nihil aliquid itaque eaque.,Approved
+255,Casual,2025-05-24,2025-05-28,Possimus ex a nesciunt numquam.,Approved
+264,Emergency,2025-01-11,2025-01-15,Ratione cupiditate repellendus quisquam ducimus.,Approved
+185,Paid,2025-02-04,2025-02-08,Architecto facere voluptatem deserunt ab maxime nostrum.,Approved
+86,Sick,2025-11-03,2025-11-07,Laboriosam odit ullam.,Approved
+243,Sick,2025-05-16,2025-05-21,Eum ducimus eaque maiores laudantium ad asperiores.,Approved
+230,Sick,2025-06-04,2025-06-06,Architecto architecto sunt tenetur voluptatum sunt.,Approved
+291,Sick,2025-06-10,2025-06-15,Dignissimos laudantium accusantium.,Approved
+380,Paid,2025-06-08,2025-06-10,Quis hic ullam fugit necessitatibus veritatis architecto.,Approved
+318,Sick,2025-10-24,2025-10-28,Aspernatur unde ut amet necessitatibus aliquid at.,Approved
+363,Sick,2025-08-04,2025-08-09,Tempora eaque eligendi aut facilis quibusdam.,Approved
+266,Emergency,2025-04-09,2025-04-10,Ipsa maxime quidem soluta ea sunt officiis.,Approved
+190,Paid,2025-07-06,2025-07-10,Dolores quia praesentium nihil maxime facere odit corporis.,Approved
+34,Sick,2025-07-19,2025-07-24,Nam esse dolore rem natus dolorem labore.,Rejected
+379,Casual,2025-11-16,2025-11-17,Earum odit perferendis suscipit eligendi.,Approved
+97,Casual,2025-05-02,2025-05-06,Neque voluptate itaque reprehenderit.,Approved
+329,Sick,2025-05-03,2025-05-04,Nam maiores exercitationem quisquam eveniet occaecati.,Approved
+339,Casual,2025-03-04,2025-03-07,Quibusdam ad nihil sapiente.,Approved
+153,Emergency,2025-07-05,2025-07-09,Laudantium quia eaque atque recusandae illo repellat.,Approved
+232,Paid,2025-09-27,2025-10-02,Sunt laborum veniam voluptate dolorum eligendi totam iusto.,Approved
+208,Sick,2025-08-21,2025-08-23,Esse modi quaerat aspernatur dolore.,Approved
+2,Paid,2025-08-30,2025-09-03,Doloremque culpa perspiciatis saepe nihil quo.,Approved
+35,Emergency,2025-10-08,2025-10-13,Natus error expedita natus amet.,Approved
+436,Sick,2025-06-01,2025-06-05,Architecto eligendi vitae laborum error.,Rejected
+322,Sick,2025-05-04,2025-05-05,Mollitia omnis dolores neque eveniet optio.,Approved
+241,Sick,2025-07-02,2025-07-03,Magni perspiciatis quam ipsum possimus.,Approved
+139,Casual,2025-09-06,2025-09-09,Possimus aut perspiciatis enim fugiat necessitatibus excepturi quae.,Approved
+83,Casual,2025-08-30,2025-09-04,Perspiciatis dolores voluptatum sint.,Approved
+362,Emergency,2025-11-14,2025-11-17,Eius mollitia officiis ipsam deserunt sunt eius dicta.,Rejected
+257,Paid,2025-01-09,2025-01-13,Eligendi labore eum numquam labore porro.,Approved
+407,Casual,2025-01-14,2025-01-19,Praesentium officiis inventore harum.,Approved
+266,Emergency,2025-06-12,2025-06-17,Ea expedita delectus assumenda cum voluptate.,Approved
+24,Casual,2025-06-05,2025-06-10,Ipsam quia recusandae sequi et eveniet ducimus.,Approved
+100,Casual,2025-09-04,2025-09-07,Iusto sint est veniam quod et ratione.,Approved
+411,Casual,2025-06-24,2025-06-26,In omnis dolores minus iste.,Approved
+350,Casual,2025-04-15,2025-04-18,Ipsum exercitationem maxime doloribus illum ducimus vitae.,Approved
+72,Sick,2025-04-20,2025-04-24,Amet consectetur minus distinctio praesentium commodi dignissimos.,Approved
+33,Paid,2025-10-01,2025-10-06,Excepturi autem quia autem ipsa repellat.,Approved
+319,Paid,2025-03-01,2025-03-06,Suscipit quam quidem doloribus sed possimus harum omnis.,Approved
+227,Emergency,2025-01-03,2025-01-05,Natus expedita harum fugiat.,Approved
+265,Casual,2025-11-24,2025-11-26,A delectus ipsa esse labore quisquam.,Rejected
+366,Casual,2025-01-27,2025-01-30,Quas similique eius nemo molestiae saepe.,Approved
+407,Emergency,2025-09-23,2025-09-24,Debitis consectetur nesciunt eligendi.,Approved
+232,Sick,2025-02-05,2025-02-08,Perferendis incidunt officia quaerat similique nulla qui.,Approved
+97,Paid,2025-01-24,2025-01-26,Voluptatum cupiditate vitae magni.,Approved
+216,Casual,2025-09-15,2025-09-18,Nisi provident accusantium facilis.,Approved
+272,Casual,2025-04-07,2025-04-12,Molestiae ratione eveniet voluptate blanditiis.,Approved
+418,Sick,2025-09-04,2025-09-06,Animi totam eaque beatae ut.,Approved
+399,Casual,2025-09-11,2025-09-15,Pariatur deserunt neque quasi consequuntur accusantium amet quisquam.,Approved
+125,Casual,2025-07-04,2025-07-09,Quam deserunt quae ut.,Rejected
+347,Paid,2025-12-04,2025-12-09,Nesciunt quaerat velit aliquid alias.,Approved
+193,Casual,2025-06-11,2025-06-13,Labore ducimus possimus aliquid est quod.,Pending
+91,Casual,2025-05-07,2025-05-10,Magni assumenda inventore labore consectetur.,Approved
+219,Paid,2025-08-14,2025-08-15,A nisi ad.,Approved
+127,Casual,2025-06-22,2025-06-23,Animi labore perspiciatis possimus quo.,Approved
+280,Casual,2025-05-05,2025-05-10,Magnam neque aperiam corporis soluta.,Rejected
+187,Emergency,2025-04-26,2025-04-29,Pariatur impedit quidem enim.,Pending
+239,Casual,2025-11-12,2025-11-13,Necessitatibus officia vel similique tempore.,Approved
+398,Sick,2025-01-15,2025-01-19,Rerum suscipit fugit.,Approved
+240,Emergency,2025-11-29,2025-12-02,Veritatis similique rerum architecto deleniti.,Approved
+360,Sick,2025-03-25,2025-03-27,A sint quidem quidem quos.,Approved
+111,Sick,2025-10-19,2025-10-22,Cupiditate fugiat sapiente saepe consequuntur.,Approved
+463,Emergency,2025-07-12,2025-07-15,Itaque hic nesciunt tenetur.,Pending
+239,Paid,2025-03-30,2025-04-01,Reiciendis cumque quaerat odit vel.,Approved
+175,Casual,2025-06-04,2025-06-07,Natus eaque sunt illo labore eum.,Approved
+57,Emergency,2025-02-01,2025-02-06,Tempora deleniti debitis reprehenderit.,Approved
+43,Sick,2025-07-06,2025-07-09,Dolorum dolorum recusandae optio aut iure.,Approved
+184,Sick,2025-03-17,2025-03-19,Enim nesciunt non temporibus quisquam.,Approved
+20,Emergency,2025-05-20,2025-05-24,Veniam vitae expedita architecto aliquid.,Approved
+478,Paid,2025-04-22,2025-04-26,Odit consequatur harum excepturi.,Approved
+384,Casual,2025-04-15,2025-04-17,Alias fugit provident incidunt ipsum.,Rejected
+490,Casual,2025-04-16,2025-04-17,Neque aliquid quidem voluptas cum reiciendis aspernatur.,Approved
+315,Paid,2025-08-10,2025-08-15,Rerum beatae voluptates iure delectus non molestiae adipisci.,Approved
+255,Paid,2025-05-14,2025-05-16,Ut labore odit fugit nisi ut pariatur.,Approved
+419,Paid,2025-06-11,2025-06-14,Quae ratione odit sunt eos voluptatum veritatis.,Approved
+17,Sick,2025-01-07,2025-01-11,Inventore dolor consequuntur eligendi labore dignissimos.,Approved
+162,Paid,2025-06-26,2025-06-28,Officia fugiat dicta fugit ipsam.,Rejected
+102,Emergency,2025-09-16,2025-09-17,Sit esse quod praesentium sapiente modi.,Approved
+116,Casual,2025-04-30,2025-05-04,Vel minima minima eum nisi doloremque dolores.,Approved
+305,Emergency,2025-04-07,2025-04-11,Nam suscipit corrupti corporis quis natus a architecto.,Approved
+413,Emergency,2025-06-25,2025-06-26,Nemo architecto molestias distinctio aspernatur.,Rejected
+468,Paid,2025-10-02,2025-10-03,Culpa sint recusandae ipsa nobis explicabo.,Pending
+432,Emergency,2025-08-09,2025-08-14,Quidem eum itaque repellat praesentium saepe doloribus.,Approved
+201,Paid,2025-05-19,2025-05-23,Incidunt vitae modi tenetur.,Rejected
+244,Casual,2025-12-04,2025-12-05,Deserunt eum accusantium at a.,Approved
+499,Paid,2025-09-03,2025-09-06,Facere quis ab perferendis.,Approved
+142,Casual,2025-02-01,2025-02-05,Inventore officia soluta repudiandae minima dignissimos cupiditate.,Rejected
+205,Paid,2025-12-02,2025-12-07,Ipsam animi molestias nesciunt veritatis eveniet adipisci.,Approved
+286,Sick,2025-02-04,2025-02-05,Quo cumque totam ducimus repellendus tempore ab quam.,Approved
+246,Sick,2025-07-30,2025-08-03,Sequi quisquam aliquid necessitatibus.,Approved
+315,Paid,2025-01-17,2025-01-21,Tenetur cupiditate corporis aliquid.,Approved
+151,Casual,2025-02-19,2025-02-20,Reprehenderit iste similique ea possimus itaque.,Rejected
+293,Sick,2025-01-01,2025-01-06,Tenetur quisquam eum modi at soluta.,Approved
+426,Emergency,2025-10-13,2025-10-16,Fuga laudantium a.,Rejected
+55,Sick,2025-04-18,2025-04-22,Asperiores laborum vero accusantium.,Approved
+215,Paid,2025-09-23,2025-09-26,Sapiente optio provident incidunt dolores soluta quam error.,Approved
+140,Casual,2025-10-08,2025-10-11,Illum est unde expedita excepturi ex velit.,Pending
+169,Sick,2025-11-04,2025-11-06,Amet autem dolor doloribus quam enim nobis.,Pending
+192,Paid,2025-09-30,2025-10-05,Neque iure sequi reprehenderit quia necessitatibus.,Rejected
+392,Casual,2025-07-28,2025-07-31,Officia consequatur excepturi temporibus asperiores a.,Approved
+173,Paid,2025-06-23,2025-06-24,Ab eius quae ducimus quas delectus.,Approved
+48,Sick,2025-04-20,2025-04-22,Minima libero numquam maxime quo.,Approved
+444,Sick,2025-08-23,2025-08-27,Quibusdam in soluta incidunt asperiores libero.,Approved
+407,Casual,2025-02-14,2025-02-19,Expedita nisi error rem error commodi veritatis.,Approved
+473,Paid,2025-08-24,2025-08-29,Laboriosam aut distinctio perferendis.,Pending
+243,Paid,2025-08-01,2025-08-06,Totam tempore perspiciatis nam.,Approved
+9,Sick,2025-08-23,2025-08-25,Animi saepe amet labore nesciunt quod non.,Approved
+45,Paid,2025-11-22,2025-11-26,Atque perferendis dolor impedit veniam libero voluptatibus.,Approved
+117,Casual,2025-06-20,2025-06-23,Ut quae corporis dolore vero.,Approved
+341,Emergency,2025-10-25,2025-10-30,Repellat quaerat hic quod.,Rejected
+32,Casual,2025-10-03,2025-10-05,Sint asperiores non neque enim.,Approved
+149,Paid,2025-01-29,2025-02-01,Aliquam ut magnam odio.,Approved
+214,Sick,2025-10-08,2025-10-11,Eveniet culpa ratione nam accusantium.,Approved
+388,Sick,2025-05-26,2025-05-31,Dicta repellendus quibusdam alias.,Approved
+396,Sick,2025-05-07,2025-05-09,Quisquam nostrum impedit sequi fuga.,Approved
+63,Casual,2025-05-23,2025-05-27,Distinctio quisquam beatae aperiam tempora dignissimos molestias.,Approved
+274,Emergency,2025-02-27,2025-03-03,Culpa odit pariatur nam natus vero soluta.,Approved
+307,Casual,2025-02-01,2025-02-06,Voluptas expedita repellat exercitationem assumenda iure.,Approved
+215,Paid,2025-03-04,2025-03-08,Unde a sapiente dolorem labore eius minus.,Approved
+308,Casual,2025-02-10,2025-02-15,Quos consequuntur dicta itaque.,Approved
+474,Emergency,2025-05-29,2025-06-02,Doloribus consectetur quos cumque minus ducimus consequatur.,Approved
+493,Casual,2025-12-04,2025-12-09,Rem quaerat officiis porro architecto consequuntur tempora.,Pending
+389,Paid,2025-06-26,2025-06-29,Quas ad iusto eos repellat optio nesciunt.,Approved
+187,Sick,2025-10-30,2025-11-01,Nostrum delectus quas officia aspernatur.,Pending
+239,Emergency,2025-10-21,2025-10-25,Tempore tenetur quibusdam fuga quia facere impedit ea.,Approved
+486,Casual,2025-08-23,2025-08-27,Id aliquid ducimus pariatur.,Pending
+453,Sick,2025-01-04,2025-01-05,Delectus quidem illum odio culpa ipsa.,Approved
+294,Casual,2025-01-28,2025-01-29,Et culpa exercitationem perferendis nostrum quisquam.,Approved
+114,Emergency,2025-01-06,2025-01-10,Delectus repudiandae blanditiis fugit eaque rerum.,Approved
+491,Paid,2025-03-18,2025-03-20,Dolorum saepe rem iste sint in adipisci autem.,Approved
+189,Sick,2025-05-31,2025-06-01,Necessitatibus minus minima quae expedita non.,Approved
+451,Emergency,2025-08-24,2025-08-25,Ullam eligendi totam ad.,Approved
+217,Casual,2025-10-04,2025-10-07,Ipsam quidem commodi dolorem quasi distinctio nemo.,Rejected
+320,Sick,2025-12-06,2025-12-08,Facilis repellat hic nihil unde debitis ea.,Approved
+386,Casual,2025-08-25,2025-08-29,Minima libero et expedita voluptas.,Approved
+364,Emergency,2025-05-29,2025-06-03,Minus tenetur esse.,Approved
+483,Casual,2025-10-24,2025-10-29,Natus accusantium est modi.,Approved
+369,Paid,2025-02-28,2025-03-02,Asperiores officiis blanditiis hic laboriosam optio fugiat.,Approved
+500,Sick,2025-06-09,2025-06-10,Illum minus inventore delectus eum ullam.,Rejected
+260,Paid,2025-04-20,2025-04-25,Quod iusto laboriosam accusamus rem labore ea incidunt.,Approved
+500,Casual,2025-02-06,2025-02-10,Laudantium ipsam mollitia ducimus illum ad quidem.,Approved
+329,Emergency,2025-04-05,2025-04-09,Minima repellendus vitae molestias commodi quisquam inventore.,Approved
+252,Casual,2025-03-20,2025-03-24,Corrupti hic in dignissimos unde tempore maxime.,Approved
+352,Emergency,2025-11-20,2025-11-24,Aut sed impedit.,Approved
+472,Sick,2025-11-10,2025-11-13,Tenetur aut iure mollitia.,Approved
+475,Emergency,2025-04-23,2025-04-25,Est quae dolore laboriosam consectetur.,Approved
+128,Emergency,2025-10-16,2025-10-21,Quaerat quos nesciunt facilis nobis.,Approved
+358,Paid,2025-04-02,2025-04-06,Laboriosam adipisci doloremque aliquid esse aliquam ullam exercitationem.,Approved
+215,Emergency,2025-05-30,2025-06-03,Ipsum sequi modi nesciunt numquam rerum.,Approved
+233,Paid,2025-10-13,2025-10-16,Voluptatibus porro animi excepturi laboriosam.,Approved
+265,Casual,2025-04-13,2025-04-14,Laborum labore molestias quis debitis.,Approved
+391,Paid,2025-11-12,2025-11-13,Est magnam in quam perspiciatis reprehenderit dolorum voluptate.,Approved
+36,Paid,2025-12-19,2025-12-23,Cumque quasi voluptatum temporibus perferendis ratione amet.,Approved
+445,Emergency,2025-07-17,2025-07-22,Ut hic corrupti occaecati laboriosam incidunt.,Rejected
+491,Paid,2025-12-02,2025-12-04,Nulla saepe possimus maxime voluptatum.,Approved
+449,Paid,2025-10-05,2025-10-10,Laborum laboriosam inventore reiciendis temporibus quaerat.,Pending
+231,Casual,2025-03-26,2025-03-29,Cupiditate laudantium quasi consequuntur accusantium hic adipisci eum.,Pending
+437,Paid,2025-08-31,2025-09-05,Aliquid maxime nam officia inventore est.,Approved
+21,Sick,2025-03-12,2025-03-14,Ducimus consectetur quae.,Approved
+408,Emergency,2025-09-05,2025-09-06,Magnam esse tempora adipisci quisquam.,Approved
+439,Paid,2025-07-24,2025-07-29,Dolores mollitia voluptatum ipsum.,Rejected
+414,Sick,2025-10-01,2025-10-02,Corporis corrupti hic debitis.,Pending
+206,Emergency,2025-06-15,2025-06-16,Voluptas dicta atque aspernatur saepe dolorum.,Approved
+45,Paid,2025-01-29,2025-02-01,Commodi eligendi voluptate deleniti libero et.,Approved
+336,Casual,2025-04-19,2025-04-20,Eius officia nesciunt accusamus rerum.,Rejected
+63,Sick,2025-08-28,2025-09-01,Nemo aliquam quis corrupti libero cupiditate eligendi.,Approved
+116,Sick,2025-10-28,2025-11-01,Assumenda maxime reiciendis eveniet molestiae doloribus tempora.,Approved
+185,Emergency,2025-11-05,2025-11-07,Nostrum hic laborum.,Approved
+415,Sick,2025-08-24,2025-08-25,Veritatis consequatur error laborum sed laudantium tempore.,Approved
+219,Casual,2025-08-02,2025-08-04,Accusantium corporis temporibus asperiores natus assumenda.,Approved
+349,Emergency,2025-03-17,2025-03-20,Voluptas numquam sunt ea.,Pending
+315,Casual,2025-04-27,2025-05-02,Facilis dolore expedita veritatis molestias beatae excepturi.,Approved
+12,Sick,2025-04-26,2025-04-27,Exercitationem suscipit suscipit non.,Approved
+279,Casual,2025-01-19,2025-01-20,Labore perspiciatis modi repudiandae inventore voluptatibus harum.,Pending
+28,Sick,2025-06-03,2025-06-08,Est animi aliquid nihil.,Approved
+203,Casual,2025-02-15,2025-02-17,Voluptas eaque nam in.,Approved
+68,Emergency,2025-10-31,2025-11-01,Iusto tenetur accusamus distinctio doloremque.,Approved
+84,Casual,2025-04-17,2025-04-19,Nihil odio et hic quos quos.,Rejected
+14,Emergency,2025-11-29,2025-11-30,Deserunt maiores provident id ut necessitatibus modi.,Approved
+408,Casual,2025-08-18,2025-08-21,Eum fuga dicta.,Approved
+184,Casual,2025-06-20,2025-06-21,Nisi quidem deleniti facilis placeat labore nobis.,Approved
+350,Sick,2025-05-28,2025-06-02,Distinctio asperiores sed id.,Approved
+61,Casual,2025-03-05,2025-03-07,Ipsum quos quae totam cum quas.,Approved
+229,Emergency,2025-06-05,2025-06-08,Atque asperiores doloremque quasi officia quam.,Approved
+308,Emergency,2025-05-08,2025-05-13,Tempore autem pariatur quaerat alias iure.,Approved
+285,Paid,2025-08-18,2025-08-20,Recusandae modi animi illo.,Approved
+28,Casual,2025-11-03,2025-11-07,Expedita nostrum aperiam vitae.,Approved
+430,Paid,2025-09-14,2025-09-15,Magnam itaque quod quo voluptas labore.,Approved
+397,Emergency,2025-08-07,2025-08-11,Pariatur vitae incidunt molestias nostrum corrupti itaque.,Pending
+395,Emergency,2025-05-27,2025-05-28,Excepturi perspiciatis necessitatibus porro excepturi.,Approved
+117,Emergency,2025-10-25,2025-10-29,Provident quam voluptatibus earum.,Approved
+241,Paid,2025-12-17,2025-12-18,Necessitatibus nisi earum accusamus sit libero.,Approved
+1,Paid,2025-03-24,2025-03-25,Harum accusamus eum reprehenderit incidunt voluptates.,Approved
+244,Paid,2025-02-14,2025-02-16,Voluptas vitae atque perferendis.,Approved
+55,Casual,2025-08-29,2025-09-01,Aliquam quia placeat quibusdam.,Approved
+409,Sick,2025-06-16,2025-06-18,Voluptatem libero optio.,Pending
+59,Paid,2025-10-18,2025-10-21,Iusto id natus totam.,Approved
+491,Paid,2025-02-18,2025-02-21,Vero delectus optio quibusdam et adipisci ratione.,Pending
+196,Sick,2025-06-27,2025-06-28,Delectus ex omnis reiciendis eaque.,Approved
+159,Casual,2025-07-06,2025-07-08,Expedita sunt aut nisi dolore maiores expedita.,Rejected
+410,Paid,2025-04-20,2025-04-23,Molestias dicta perferendis suscipit voluptatem odio.,Approved
+500,Casual,2025-10-15,2025-10-20,Optio esse sit eum.,Approved
+357,Sick,2025-11-18,2025-11-19,Sapiente qui laudantium quas delectus minima excepturi facere.,Approved
+379,Casual,2025-10-07,2025-10-09,Explicabo ipsam illum incidunt dolorem.,Approved
+400,Emergency,2025-07-08,2025-07-10,Porro ipsa officia excepturi ipsa a.,Approved
+31,Casual,2025-12-10,2025-12-15,Sit ratione cumque vel assumenda.,Approved
+221,Sick,2025-06-25,2025-06-27,Dolorum natus perferendis ipsa doloribus assumenda quo nam.,Approved
+184,Paid,2025-05-18,2025-05-21,Aut sed cupiditate iusto corporis eligendi reprehenderit.,Approved
+280,Sick,2025-07-04,2025-07-06,Reprehenderit impedit labore est commodi doloribus.,Approved
+362,Casual,2025-06-16,2025-06-19,Deserunt sapiente alias quia.,Approved
+239,Sick,2025-10-12,2025-10-15,Quaerat non ad facere perferendis iste nesciunt doloribus.,Rejected
+425,Sick,2025-07-11,2025-07-13,Nam ad corrupti suscipit nulla.,Rejected
+55,Sick,2025-01-20,2025-01-23,Illo adipisci sit optio.,Rejected
+171,Emergency,2025-07-03,2025-07-06,Facilis cum sed.,Approved
+163,Sick,2025-07-30,2025-07-31,Excepturi beatae provident quasi.,Approved
+31,Casual,2025-09-25,2025-09-28,Molestiae voluptatibus natus cumque porro animi vel.,Approved
+2,Paid,2025-09-05,2025-09-09,Voluptatem quas exercitationem vitae.,Approved
+227,Casual,2025-06-27,2025-06-28,Voluptates ex quia voluptates corrupti velit.,Pending
+340,Emergency,2025-03-30,2025-04-03,Amet minima ad ipsam id veniam.,Approved
+407,Sick,2025-08-29,2025-08-30,Labore optio iusto consectetur reprehenderit sed voluptate.,Approved
+32,Casual,2025-08-02,2025-08-04,Facere minus minus ad et.,Approved
+442,Sick,2025-06-26,2025-07-01,Nam in facere mollitia hic aliquid.,Approved
+11,Sick,2025-10-27,2025-10-31,Voluptatum veniam necessitatibus incidunt facilis.,Approved
+148,Sick,2025-06-04,2025-06-08,Enim quod nam ea deleniti.,Approved
+258,Emergency,2025-07-21,2025-07-25,Sed omnis delectus.,Approved
+251,Emergency,2025-11-10,2025-11-15,Cum itaque commodi esse.,Rejected
+212,Emergency,2025-05-10,2025-05-13,Excepturi ad numquam sit.,Approved
+103,Emergency,2025-09-07,2025-09-09,Adipisci neque quasi a modi.,Approved
+174,Sick,2025-08-17,2025-08-21,Repellat nam libero laudantium laboriosam doloribus.,Rejected
+90,Paid,2025-01-13,2025-01-14,Ex quibusdam totam et cumque quasi dolores.,Approved
+272,Paid,2025-01-11,2025-01-16,Repellat rerum voluptate illum accusamus sit officiis.,Approved
+128,Paid,2025-06-20,2025-06-24,Dolor et illo iure facilis.,Rejected
+178,Sick,2025-06-26,2025-06-29,Ducimus fugiat nostrum numquam molestiae quia voluptates.,Approved
+288,Paid,2025-07-05,2025-07-08,Dolorum natus quidem tenetur earum alias cupiditate.,Approved
+118,Sick,2025-04-18,2025-04-21,Sequi soluta quia minima sapiente nesciunt maiores temporibus.,Approved
+123,Casual,2025-04-24,2025-04-28,Perferendis sint dolore explicabo id minus.,Approved
+245,Emergency,2025-08-14,2025-08-18,Ex quibusdam consectetur laboriosam aperiam deleniti.,Approved
+110,Casual,2025-05-04,2025-05-05,Error odio praesentium facere tempora aliquid reprehenderit.,Approved
+95,Emergency,2025-06-19,2025-06-23,Ex mollitia atque voluptatum quas nulla itaque.,Approved
+115,Paid,2025-03-01,2025-03-05,Fugiat nemo amet error soluta.,Approved
+310,Emergency,2025-06-13,2025-06-14,Veritatis minus facilis distinctio accusantium fugiat.,Rejected
+38,Sick,2025-05-15,2025-05-20,Perferendis neque porro voluptate magni incidunt.,Approved
+94,Casual,2025-09-27,2025-09-28,Deserunt pariatur velit corporis aliquid.,Approved
+239,Paid,2025-12-04,2025-12-09,Error natus illo.,Pending
+104,Paid,2025-04-03,2025-04-06,Rerum assumenda mollitia consequuntur magnam voluptates perspiciatis.,Approved
+434,Sick,2025-05-18,2025-05-20,Error reiciendis unde esse.,Approved
+184,Sick,2025-01-09,2025-01-14,Dolores itaque harum atque asperiores.,Approved
+399,Emergency,2025-11-18,2025-11-19,Totam error dignissimos nostrum esse nostrum non.,Approved
+159,Paid,2025-01-21,2025-01-24,Cum nostrum est recusandae.,Approved
+99,Sick,2025-04-25,2025-04-27,Hic cumque repudiandae.,Pending
+110,Paid,2025-01-18,2025-01-20,Repudiandae voluptates deleniti aspernatur et velit nulla.,Approved
+398,Casual,2025-03-15,2025-03-17,Animi accusantium necessitatibus saepe dicta tempore.,Approved
+466,Sick,2025-05-10,2025-05-13,Explicabo delectus exercitationem molestias.,Approved
+182,Casual,2025-08-25,2025-08-29,Beatae accusantium aspernatur quisquam fuga.,Approved
+277,Casual,2025-05-31,2025-06-01,Sint distinctio magni aliquid.,Approved
+112,Casual,2025-11-07,2025-11-11,Iusto autem laboriosam amet veniam est occaecati facere.,Approved
+330,Paid,2025-12-11,2025-12-14,Eius tenetur dolor illum culpa nemo mollitia.,Approved
+256,Casual,2025-03-16,2025-03-21,Ipsam ea laudantium eligendi dolor culpa.,Approved
+234,Sick,2025-03-10,2025-03-11,Ea eius rem asperiores.,Pending
+142,Sick,2025-09-02,2025-09-06,Recusandae ipsa debitis recusandae quas ipsum blanditiis.,Approved
+265,Sick,2025-04-08,2025-04-10,Ratione minima distinctio.,Approved
+268,Emergency,2025-06-05,2025-06-06,Temporibus velit perferendis aliquam.,Rejected
+91,Emergency,2025-08-14,2025-08-19,Deserunt iste libero iusto.,Approved
+489,Emergency,2025-10-30,2025-11-03,Blanditiis culpa reiciendis sapiente eveniet veniam ab.,Approved
+187,Paid,2025-12-11,2025-12-16,Quia eius possimus.,Approved
+499,Paid,2025-05-11,2025-05-12,Ad ex doloribus occaecati.,Approved
+302,Sick,2025-05-04,2025-05-09,Ea ut reiciendis eligendi explicabo.,Approved
+153,Casual,2025-02-28,2025-03-04,Impedit veritatis consectetur possimus ex optio.,Approved
+43,Paid,2025-04-26,2025-05-01,Tenetur quam nostrum recusandae pariatur.,Approved
+224,Sick,2025-12-02,2025-12-05,Dolore odit nesciunt praesentium possimus ut excepturi.,Pending
+252,Sick,2025-03-11,2025-03-13,Quidem dolores sapiente hic asperiores cum quod.,Approved
+408,Casual,2025-01-22,2025-01-24,Laborum autem nobis explicabo velit blanditiis aperiam at.,Approved
+453,Casual,2025-03-23,2025-03-24,Fugiat nisi corrupti quisquam.,Approved
+36,Sick,2025-12-09,2025-12-14,Cumque omnis id nostrum voluptas dolorem.,Approved
+204,Paid,2025-10-11,2025-10-15,Facilis explicabo tempora deserunt autem molestias.,Rejected
+407,Paid,2025-07-05,2025-07-06,Cumque neque amet quo eveniet soluta.,Approved
+471,Paid,2025-10-25,2025-10-26,Eligendi velit quibusdam excepturi aliquid vitae officia.,Approved
+114,Emergency,2025-01-29,2025-02-01,Provident recusandae qui.,Approved
+294,Casual,2025-01-06,2025-01-10,Eius nesciunt eaque.,Rejected
+162,Emergency,2025-08-23,2025-08-24,Doloribus debitis numquam.,Approved
+24,Paid,2025-09-24,2025-09-26,Nisi eos repellat nesciunt ex cupiditate illo.,Approved
+279,Paid,2025-07-14,2025-07-18,Explicabo architecto tempora provident cupiditate inventore mollitia quis.,Approved
+448,Emergency,2025-08-13,2025-08-17,Mollitia voluptatibus deserunt hic est earum non.,Rejected
+237,Emergency,2025-12-14,2025-12-15,Rem hic saepe provident maxime.,Pending
+199,Emergency,2025-02-07,2025-02-08,Explicabo eius id vero.,Approved
+192,Paid,2025-09-21,2025-09-26,Maiores pariatur iste ducimus.,Approved
+39,Sick,2025-04-18,2025-04-23,Magnam earum est.,Approved
+465,Paid,2025-07-30,2025-07-31,Labore excepturi inventore et voluptates alias voluptatum.,Approved
+51,Casual,2025-09-02,2025-09-06,Ipsum aliquam debitis delectus nam.,Approved
+483,Sick,2025-06-17,2025-06-18,Fuga ipsum eos eos dolorem.,Rejected
+141,Emergency,2025-05-02,2025-05-04,Fuga delectus tenetur eum velit a sequi.,Approved
+366,Paid,2025-10-16,2025-10-17,Ex quisquam enim ipsam consectetur ipsa.,Approved
+56,Emergency,2025-11-27,2025-11-29,Aliquam officia quasi ad tempore.,Approved
+403,Paid,2025-12-15,2025-12-18,Sint natus laborum odit labore explicabo.,Approved
+174,Sick,2025-02-24,2025-02-28,Veniam expedita magnam laborum eaque.,Approved
+376,Casual,2025-09-30,2025-10-01,Accusantium esse illo.,Approved
+228,Sick,2025-11-27,2025-12-01,Eveniet ex dolorem similique amet nemo.,Approved
+160,Casual,2025-01-29,2025-01-30,Voluptates velit sequi blanditiis.,Pending
+446,Emergency,2025-08-05,2025-08-07,Qui qui laborum iste mollitia doloribus officiis similique.,Approved
+49,Casual,2025-06-10,2025-06-12,Pariatur delectus nostrum ad inventore illum voluptas quibusdam.,Approved
+117,Paid,2025-01-15,2025-01-19,Voluptatem veniam fugit.,Pending
+429,Paid,2025-07-03,2025-07-07,Quam eos temporibus facilis corporis animi mollitia expedita.,Approved
+126,Casual,2025-09-27,2025-10-02,Ipsa neque itaque ea odio quasi.,Approved
+415,Emergency,2025-09-01,2025-09-06,Totam aliquid vero aspernatur commodi nisi.,Approved
+435,Casual,2025-05-20,2025-05-24,Voluptate et at ratione soluta eveniet alias.,Approved
+43,Paid,2025-12-17,2025-12-18,Velit atque eius quaerat.,Approved
+12,Paid,2025-01-09,2025-01-12,Vero fuga dolores eum quasi.,Approved
+344,Paid,2025-11-10,2025-11-15,Porro quod voluptates occaecati blanditiis sed aliquid.,Approved
+456,Sick,2025-04-05,2025-04-08,Ratione culpa consectetur magnam beatae deleniti officiis.,Approved
+105,Paid,2025-08-24,2025-08-28,Voluptate amet officia perferendis.,Approved
+44,Sick,2025-10-19,2025-10-21,Expedita quaerat explicabo esse alias ratione maxime.,Approved
+66,Casual,2025-03-14,2025-03-16,Occaecati ullam fugit.,Approved
+181,Paid,2025-08-03,2025-08-06,Est ea dolore nam ratione ratione dicta.,Approved
+48,Sick,2025-03-16,2025-03-21,Vero laborum fugit vero esse nesciunt sequi voluptate.,Approved
+195,Emergency,2025-05-13,2025-05-16,Ipsa labore exercitationem eum doloribus.,Approved
+93,Emergency,2025-04-20,2025-04-22,Beatae hic similique ratione culpa debitis.,Approved
+184,Emergency,2025-07-16,2025-07-21,Earum molestiae laboriosam aliquid.,Approved
+366,Paid,2025-04-27,2025-04-28,Necessitatibus minima sed neque dolor explicabo corrupti.,Rejected
+381,Sick,2025-10-31,2025-11-03,Temporibus minima aut perferendis nostrum aut vero.,Approved
+136,Emergency,2025-03-12,2025-03-16,Impedit quis iste sapiente blanditiis eaque officiis.,Approved
+258,Casual,2025-07-28,2025-07-31,Soluta exercitationem voluptatem nobis.,Approved
+353,Emergency,2025-03-02,2025-03-05,Placeat iure placeat modi occaecati repellat.,Rejected
+152,Sick,2025-02-23,2025-02-28,Fugiat laboriosam voluptate unde ipsam ratione.,Approved
+282,Paid,2025-12-08,2025-12-12,Similique illum natus quibusdam sunt.,Approved
+199,Sick,2025-07-01,2025-07-05,Quibusdam quibusdam dignissimos aut dignissimos.,Approved
+283,Sick,2025-01-07,2025-01-10,Voluptatibus in distinctio.,Approved
+10,Emergency,2025-06-22,2025-06-25,At culpa beatae corporis.,Rejected
+47,Casual,2025-11-09,2025-11-11,Blanditiis laboriosam reprehenderit cupiditate accusantium perspiciatis nam omnis.,Approved
+378,Emergency,2025-01-09,2025-01-11,Saepe quidem amet occaecati numquam consectetur.,Approved
+311,Emergency,2025-09-24,2025-09-29,Tenetur assumenda culpa quasi.,Approved
+113,Sick,2025-07-20,2025-07-24,Animi magni rerum maxime natus.,Approved
+246,Emergency,2025-11-16,2025-11-21,Suscipit sint fuga numquam.,Approved
+209,Emergency,2025-08-21,2025-08-24,Magnam harum quae et pariatur voluptatem assumenda.,Approved
+280,Casual,2025-08-02,2025-08-03,Voluptates animi voluptates ducimus.,Approved
+315,Paid,2025-09-03,2025-09-08,In voluptatem quod vitae voluptates quae.,Rejected
+124,Casual,2025-05-12,2025-05-14,Totam mollitia doloribus saepe.,Approved
+450,Casual,2025-09-03,2025-09-05,Ut facere eos odio optio nesciunt pariatur deserunt.,Rejected
+440,Emergency,2025-06-12,2025-06-16,Totam voluptate rem delectus.,Approved
+237,Emergency,2025-11-17,2025-11-20,Odio sapiente consequuntur totam.,Approved
+52,Paid,2025-10-06,2025-10-07,Rerum odit porro expedita temporibus hic animi maxime.,Approved
+406,Sick,2025-01-29,2025-01-31,Eligendi fugiat ratione architecto assumenda nihil molestias.,Approved
+401,Emergency,2025-10-05,2025-10-09,Cumque autem quos amet mollitia nostrum soluta.,Approved
+429,Casual,2025-01-29,2025-02-03,Culpa quae pariatur blanditiis ipsam vitae animi.,Approved
+487,Paid,2025-04-05,2025-04-10,Hic placeat at optio inventore dolore consectetur.,Approved
+307,Casual,2025-06-22,2025-06-24,Vero illo fuga minima nisi maxime quaerat quos.,Approved
+178,Emergency,2025-12-14,2025-12-19,Nam molestiae dicta.,Approved
+378,Sick,2025-04-15,2025-04-19,Ut illo facere molestiae.,Approved
+449,Sick,2025-06-04,2025-06-07,Laborum at architecto deleniti explicabo.,Approved
+151,Paid,2025-07-18,2025-07-21,Excepturi a magnam itaque aut perferendis.,Approved
+235,Paid,2025-11-17,2025-11-21,Vero architecto distinctio alias cupiditate.,Approved
+454,Paid,2025-03-08,2025-03-12,Quis provident distinctio sunt saepe temporibus.,Approved
+195,Sick,2025-01-11,2025-01-16,Voluptatem earum distinctio quisquam.,Approved
+457,Sick,2025-07-26,2025-07-29,At explicabo rerum autem voluptas alias deleniti.,Approved
+87,Paid,2025-06-08,2025-06-09,Atque velit cumque blanditiis aut blanditiis nulla eius.,Approved
+160,Emergency,2025-10-28,2025-10-29,Sed fugiat nostrum esse.,Approved
+384,Casual,2025-08-18,2025-08-19,Explicabo neque nihil incidunt.,Approved
+425,Paid,2025-07-17,2025-07-21,Fugiat assumenda animi necessitatibus eligendi.,Approved
+119,Sick,2025-03-26,2025-03-30,Odio aperiam illo.,Approved
+60,Sick,2025-03-27,2025-03-29,Ratione ex quo ducimus.,Approved
+121,Sick,2025-06-28,2025-07-01,Natus aperiam enim.,Approved
+471,Paid,2025-01-16,2025-01-20,Libero ex sunt expedita vero magnam.,Approved
+411,Casual,2025-08-01,2025-08-05,Placeat molestias quae.,Approved
+373,Paid,2025-01-14,2025-01-15,Aperiam dolorem illum saepe sint aliquid.,Approved
+297,Paid,2025-04-25,2025-04-30,Inventore quidem ullam quisquam.,Approved
+47,Casual,2025-12-09,2025-12-13,Deserunt eaque dolorem iure.,Approved
+306,Emergency,2025-08-03,2025-08-07,Delectus debitis veritatis occaecati natus nulla.,Approved
+308,Emergency,2025-01-03,2025-01-05,Dolorem quod mollitia alias.,Approved
+190,Sick,2025-03-04,2025-03-08,Ipsum ipsam officia laborum ab molestias voluptas.,Approved
+420,Emergency,2025-05-27,2025-06-01,Eaque nemo corporis.,Pending
+402,Casual,2025-01-06,2025-01-08,Dolores voluptatem ratione sit tenetur eaque.,Approved
+284,Paid,2025-03-30,2025-03-31,Animi libero molestiae ex doloribus sint.,Approved
+74,Casual,2025-08-14,2025-08-18,Optio nulla nihil asperiores velit cumque.,Pending
+321,Emergency,2025-08-04,2025-08-05,Dicta fugiat quis quia sint.,Approved
+133,Paid,2025-08-17,2025-08-18,Dolore provident cum natus pariatur veritatis dignissimos.,Approved
+261,Emergency,2025-03-09,2025-03-14,Esse quod laborum nisi dolorem quae quis.,Pending
+290,Sick,2025-04-01,2025-04-05,Officiis ad eaque eveniet.,Approved
+222,Paid,2025-06-26,2025-07-01,Doloremque cumque nesciunt omnis architecto.,Approved
+406,Casual,2025-09-05,2025-09-08,Labore totam commodi occaecati accusamus nam soluta mollitia.,Approved
+179,Emergency,2025-05-07,2025-05-08,Ut distinctio tempora.,Approved
+398,Sick,2025-03-05,2025-03-10,Occaecati recusandae id ex necessitatibus deserunt.,Approved
+305,Sick,2025-01-04,2025-01-05,Quam mollitia eligendi porro a repellendus cupiditate.,Approved
+382,Emergency,2025-04-01,2025-04-06,Adipisci est quibusdam rerum possimus.,Pending
+117,Casual,2025-07-25,2025-07-30,Corporis quaerat sunt reprehenderit dicta qui.,Pending
+153,Emergency,2025-09-05,2025-09-09,Provident minima non quidem quas adipisci recusandae.,Approved
+55,Paid,2025-07-30,2025-07-31,Incidunt doloribus aliquam mollitia illum.,Approved
+200,Paid,2025-04-26,2025-04-30,Nesciunt nulla sit sint iste molestiae libero.,Approved
+323,Sick,2025-01-16,2025-01-21,Ex ut libero tempore dolore perferendis.,Approved
+114,Sick,2025-04-19,2025-04-21,Esse vitae magnam fugit dignissimos voluptatibus.,Approved
+323,Sick,2025-03-18,2025-03-20,Necessitatibus praesentium excepturi repellendus impedit.,Approved
+406,Casual,2025-10-31,2025-11-02,Itaque expedita est occaecati cum eos.,Approved
+288,Sick,2025-10-19,2025-10-21,Eligendi mollitia quo.,Approved
+125,Paid,2025-11-13,2025-11-15,Earum minus eaque soluta perferendis.,Approved
+146,Emergency,2025-03-19,2025-03-23,Perspiciatis nisi eveniet.,Approved
+273,Sick,2025-05-08,2025-05-09,Ab magnam numquam praesentium atque.,Rejected
+372,Sick,2025-06-16,2025-06-17,Quo neque repellendus nesciunt nisi nobis.,Approved
+316,Emergency,2025-08-20,2025-08-25,Aperiam dolorum nam perferendis quod temporibus aspernatur.,Approved
+491,Casual,2025-12-16,2025-12-20,Fugiat nulla dolor numquam occaecati ullam iusto.,Approved
+88,Casual,2025-01-14,2025-01-18,Sint corrupti reiciendis assumenda.,Approved
+441,Casual,2025-08-15,2025-08-19,Quas facere facere saepe.,Approved
+490,Casual,2025-01-23,2025-01-24,Sequi ducimus hic sint neque saepe corporis.,Approved
+241,Sick,2025-10-30,2025-10-31,Dolorum dolorum ipsam error.,Approved
+454,Sick,2025-09-26,2025-10-01,Quo repellat voluptates soluta repellat beatae.,Approved
+166,Sick,2025-05-10,2025-05-15,Delectus aliquid natus esse aspernatur earum temporibus.,Approved
+163,Emergency,2025-06-05,2025-06-10,Architecto expedita modi consectetur deserunt ea quos.,Pending
+483,Paid,2025-04-21,2025-04-25,Unde commodi accusantium sapiente eum dolore.,Approved
+481,Sick,2025-08-12,2025-08-16,Reiciendis odit quos sapiente.,Approved
+10,Emergency,2025-11-29,2025-12-04,Consequatur libero exercitationem harum.,Rejected
+106,Casual,2025-07-11,2025-07-15,Expedita nostrum totam veniam non voluptates at.,Approved
+426,Emergency,2025-04-16,2025-04-20,Earum dolores incidunt alias voluptas commodi.,Rejected
+98,Casual,2025-01-10,2025-01-14,Consectetur illum aspernatur vel nihil dolor necessitatibus sequi.,Approved
+229,Paid,2025-01-30,2025-02-02,Neque explicabo corrupti quas commodi rem iste.,Approved
+338,Emergency,2025-02-27,2025-02-28,Fugiat in reiciendis perspiciatis.,Approved
+295,Sick,2025-02-17,2025-02-20,Corrupti assumenda at libero vel error voluptatem.,Approved
+434,Emergency,2025-09-03,2025-09-04,Cum modi distinctio doloribus.,Approved
+190,Paid,2025-06-15,2025-06-20,Eos deserunt voluptates magni.,Approved
+336,Sick,2025-05-03,2025-05-05,Ex optio quis at labore voluptates.,Approved
+343,Sick,2025-09-16,2025-09-20,Magni veniam vero ut.,Rejected
+90,Casual,2025-05-25,2025-05-29,Amet assumenda quaerat doloribus magni facilis eius.,Rejected
+172,Sick,2025-03-07,2025-03-11,Doloribus quos cum facere.,Approved
+332,Emergency,2025-08-07,2025-08-09,Neque ducimus veritatis iusto cupiditate impedit officia.,Pending
+97,Paid,2025-06-02,2025-06-05,Magni iure quidem deserunt beatae temporibus.,Approved
+22,Paid,2025-10-21,2025-10-23,Iste repellendus molestiae totam illum odio odit.,Approved
+172,Casual,2025-02-18,2025-02-19,Quas accusamus explicabo itaque culpa.,Approved
+61,Emergency,2025-04-19,2025-04-21,Deleniti libero perspiciatis temporibus nobis.,Approved
+217,Paid,2025-06-14,2025-06-18,Neque dolores magni dicta aliquid.,Rejected
+381,Casual,2025-05-05,2025-05-06,Porro excepturi id ut ipsam.,Approved
+404,Paid,2025-05-20,2025-05-21,Saepe aliquam explicabo nesciunt.,Approved
+184,Paid,2025-11-21,2025-11-25,Occaecati cupiditate explicabo fugiat quo adipisci ab.,Approved
+7,Emergency,2025-10-09,2025-10-11,In earum doloremque quidem.,Rejected
+485,Paid,2025-05-29,2025-05-31,Laborum doloremque unde sed impedit.,Rejected
+101,Sick,2025-06-25,2025-06-28,Explicabo facere repudiandae adipisci officiis.,Approved
+80,Emergency,2025-08-06,2025-08-11,Ratione sunt soluta est.,Rejected
+500,Casual,2025-08-11,2025-08-12,Veritatis eaque impedit modi voluptatibus.,Rejected
+42,Sick,2025-07-10,2025-07-15,Maxime recusandae consequatur maiores ad est.,Approved
+222,Paid,2025-01-02,2025-01-03,Excepturi voluptatem voluptate.,Approved
+63,Casual,2025-03-18,2025-03-22,Velit veniam architecto rem mollitia.,Approved
+392,Sick,2025-06-26,2025-06-29,Aut magnam non quos.,Approved
+282,Sick,2025-07-28,2025-07-31,Vitae odit delectus cum accusamus.,Approved
+110,Sick,2025-12-10,2025-12-14,Voluptatum ab deleniti exercitationem provident.,Approved
+100,Sick,2025-01-10,2025-01-14,Sit expedita dolorem quo sed distinctio veritatis.,Pending
+170,Emergency,2025-11-16,2025-11-18,Necessitatibus vel illo ipsa nostrum.,Approved
+145,Paid,2025-03-02,2025-03-04,Exercitationem illo pariatur praesentium tempore velit iure.,Pending
+140,Paid,2025-10-02,2025-10-05,Non earum unde veritatis perspiciatis.,Approved
+245,Emergency,2025-04-03,2025-04-07,Necessitatibus eos ipsa odit debitis quibusdam eum.,Pending
+407,Sick,2025-06-23,2025-06-26,Dolorem magnam consequuntur molestias soluta minima.,Approved
+195,Casual,2025-08-13,2025-08-18,Eius aliquam nihil soluta distinctio ab.,Rejected
+373,Sick,2025-01-29,2025-01-31,Suscipit placeat labore repellat.,Approved
+442,Casual,2025-09-03,2025-09-06,Ad suscipit aperiam recusandae numquam quasi repudiandae.,Approved
+378,Emergency,2025-11-23,2025-11-26,Magnam soluta architecto sed.,Rejected
+39,Sick,2025-02-26,2025-03-02,Magnam consectetur accusamus libero dolore deleniti.,Approved
+407,Paid,2025-07-05,2025-07-08,Incidunt quisquam nam sapiente recusandae placeat.,Approved
+121,Casual,2025-11-03,2025-11-07,Illum exercitationem quaerat.,Approved
+489,Sick,2025-12-08,2025-12-10,Minima incidunt perspiciatis nam odio officiis amet.,Approved
+165,Casual,2025-03-22,2025-03-25,Architecto dolore esse quisquam quod harum sit soluta.,Approved
+231,Emergency,2025-03-20,2025-03-25,Saepe assumenda vero iure et labore.,Approved
+83,Sick,2025-10-31,2025-11-04,Itaque fugiat consectetur nesciunt amet impedit.,Approved
+235,Paid,2025-03-28,2025-04-02,Quis corrupti occaecati illo dignissimos veniam cum.,Approved
+214,Casual,2025-10-03,2025-10-04,Nesciunt eligendi vel dolor.,Rejected
+87,Sick,2025-09-19,2025-09-23,Vero hic natus.,Approved
+124,Sick,2025-02-19,2025-02-21,Minus tempore dicta nostrum asperiores facilis ipsa.,Approved
+369,Sick,2025-07-10,2025-07-14,Enim maxime ipsam.,Approved
+35,Casual,2025-02-10,2025-02-14,Alias nobis repellendus.,Pending
+475,Sick,2025-10-07,2025-10-09,Est fugiat quam quis.,Approved
+427,Casual,2025-07-29,2025-08-02,Maiores magnam quaerat et reiciendis autem.,Approved
+139,Paid,2025-12-07,2025-12-10,Occaecati nostrum doloribus perferendis rem at expedita impedit.,Approved
+161,Emergency,2025-07-26,2025-07-28,Nulla dolorem et temporibus.,Rejected
+219,Emergency,2025-12-01,2025-12-05,Laboriosam earum officiis excepturi porro corrupti.,Pending
+255,Paid,2025-01-24,2025-01-27,Unde similique tenetur.,Approved
+192,Casual,2025-05-22,2025-05-25,Ad id id ratione consequatur.,Approved
+333,Emergency,2025-03-19,2025-03-24,Id quod ipsa.,Approved
+18,Paid,2025-08-12,2025-08-15,Officiis atque distinctio quam inventore.,Approved
+468,Paid,2025-02-08,2025-02-11,Alias placeat beatae esse molestiae illum.,Approved
+172,Casual,2025-05-13,2025-05-15,Beatae voluptas eaque consectetur accusamus recusandae.,Pending
+293,Casual,2025-08-03,2025-08-06,Recusandae dolor ut quis distinctio voluptate nobis similique.,Approved
+13,Sick,2025-11-09,2025-11-14,Quam ducimus alias ratione.,Approved
+455,Paid,2025-10-08,2025-10-10,Itaque facilis aut ducimus.,Approved
+49,Paid,2025-09-19,2025-09-24,Labore sapiente minima dolor hic.,Approved
+214,Casual,2025-07-26,2025-07-31,Nemo sed labore.,Approved
+227,Sick,2025-03-18,2025-03-22,Nobis corporis esse odit maxime.,Approved
+41,Casual,2025-11-16,2025-11-20,Ratione sunt quisquam nisi vitae.,Approved
+81,Emergency,2025-02-14,2025-02-15,Officia quasi illo repudiandae.,Approved
+86,Casual,2025-11-05,2025-11-06,Odit labore sapiente dignissimos saepe.,Pending
+143,Casual,2025-09-16,2025-09-21,Rerum necessitatibus incidunt perspiciatis.,Approved
+45,Casual,2025-02-28,2025-03-04,Dolor incidunt deleniti quod omnis aspernatur.,Approved
+371,Emergency,2025-08-10,2025-08-14,Beatae pariatur dolor.,Approved
+326,Emergency,2025-02-12,2025-02-13,Velit sequi qui ipsa laboriosam.,Approved
+432,Paid,2025-04-18,2025-04-22,Reiciendis totam ab laudantium vel omnis.,Approved
+206,Emergency,2025-02-07,2025-02-12,Neque itaque iure possimus.,Approved
+242,Paid,2025-01-29,2025-02-01,Inventore laboriosam neque quia quia aliquid.,Rejected
+168,Paid,2025-03-03,2025-03-06,Provident ipsum labore quidem repellat quaerat.,Approved
+102,Sick,2025-02-07,2025-02-08,Sit vitae minus accusamus impedit.,Approved
+89,Emergency,2025-03-23,2025-03-26,Sed et inventore.,Approved
+211,Paid,2025-04-28,2025-05-02,Consequatur optio omnis inventore et necessitatibus dolor.,Pending
+47,Emergency,2025-05-15,2025-05-18,Magni totam voluptates nemo quae aspernatur velit.,Approved
+305,Sick,2025-11-07,2025-11-10,Tenetur et possimus totam non harum.,Approved
+320,Emergency,2025-07-02,2025-07-05,Recusandae suscipit recusandae facere.,Approved
+53,Emergency,2025-05-01,2025-05-06,Nisi provident praesentium quasi deleniti sapiente deleniti.,Approved
+116,Sick,2025-05-18,2025-05-20,Expedita dolor perspiciatis vero tempora a.,Approved
+410,Paid,2025-01-29,2025-02-02,Architecto totam quidem fugit enim.,Pending
+233,Casual,2025-09-30,2025-10-03,Fugiat rerum excepturi corrupti.,Approved
+495,Paid,2025-04-27,2025-04-30,Unde quas tenetur molestias neque maxime numquam quas.,Approved
+468,Paid,2025-04-19,2025-04-21,Facere voluptatibus libero voluptate velit corrupti veniam.,Approved
+153,Paid,2025-02-25,2025-02-28,Amet qui ullam.,Rejected
+176,Casual,2025-01-16,2025-01-21,Perferendis labore nihil.,Pending
+253,Sick,2025-05-06,2025-05-07,Maiores blanditiis incidunt quam eos.,Approved
+498,Paid,2025-10-11,2025-10-16,Optio quis voluptate necessitatibus.,Approved
+196,Casual,2025-01-29,2025-01-30,Quos porro nulla et.,Approved
+321,Casual,2025-02-15,2025-02-19,Voluptatum dolorum exercitationem.,Approved
+163,Paid,2025-02-02,2025-02-03,Ut totam est reprehenderit vitae.,Approved
+377,Emergency,2025-10-08,2025-10-12,Tempora ex consequuntur facere natus.,Approved
+276,Casual,2025-03-26,2025-03-28,Aliquid repudiandae ex libero molestias quis mollitia.,Approved
+478,Paid,2025-06-07,2025-06-08,Vitae neque tempora hic porro laborum.,Approved
+8,Paid,2025-09-01,2025-09-03,Voluptates eveniet ipsa deleniti debitis.,Approved
+60,Casual,2025-05-07,2025-05-12,Occaecati atque dolorem.,Pending
+373,Paid,2025-04-20,2025-04-23,Voluptas iure tempore quidem.,Approved
+173,Casual,2025-05-29,2025-05-31,Soluta maiores modi officiis tempore cupiditate quo.,Approved
+313,Casual,2025-07-13,2025-07-16,Impedit ex laudantium rem dolorum.,Approved
+125,Casual,2025-10-08,2025-10-12,Eius vitae voluptatibus est.,Approved
+45,Paid,2025-04-22,2025-04-27,Cumque similique corrupti mollitia optio corporis.,Rejected
+31,Casual,2025-07-01,2025-07-06,Accusantium natus laborum qui accusamus cum.,Rejected
+486,Emergency,2025-11-30,2025-12-01,Velit ad vel molestiae eligendi.,Approved
+275,Casual,2025-03-04,2025-03-05,Non sunt eos exercitationem.,Approved
+407,Paid,2025-11-25,2025-11-30,Deserunt ut exercitationem optio magni.,Approved
+81,Sick,2025-10-22,2025-10-23,Accusantium nam nisi ipsam ipsa quas.,Approved
+422,Emergency,2025-05-26,2025-05-27,Sunt odit tempora blanditiis voluptas dicta ullam.,Approved
+335,Paid,2025-09-09,2025-09-13,Blanditiis voluptates temporibus recusandae sapiente.,Rejected
+436,Casual,2025-06-14,2025-06-16,Minima beatae id iure.,Approved
+285,Emergency,2025-11-21,2025-11-25,Eveniet nam totam magnam nulla.,Approved
+376,Paid,2025-02-14,2025-02-15,Repellat animi praesentium repellendus.,Approved
+377,Paid,2025-08-08,2025-08-11,Expedita dolores adipisci nesciunt at minus tempore voluptas.,Approved
+73,Sick,2025-10-14,2025-10-17,Atque rerum cumque consequuntur.,Approved
+495,Emergency,2025-10-29,2025-11-03,Sunt culpa quo.,Rejected
+229,Casual,2025-01-09,2025-01-10,Nisi est quo quibusdam accusantium.,Approved
+127,Paid,2025-08-18,2025-08-20,Exercitationem distinctio magnam natus dolorum ab.,Approved
+106,Sick,2025-04-25,2025-04-29,Architecto ducimus debitis eligendi quia rem quo.,Rejected
+476,Emergency,2025-11-04,2025-11-09,Maxime similique facilis suscipit quasi totam.,Approved
+358,Emergency,2025-05-31,2025-06-04,Soluta libero soluta veniam vero ex.,Pending
+213,Casual,2025-02-05,2025-02-08,Porro harum eum necessitatibus delectus adipisci est.,Rejected
+371,Paid,2025-03-29,2025-04-01,Corrupti sint ratione provident.,Approved
+59,Emergency,2025-02-23,2025-02-24,Distinctio accusamus accusantium sed impedit.,Approved
+195,Paid,2025-10-02,2025-10-06,Autem quibusdam architecto error accusantium velit.,Approved
+305,Emergency,2025-03-21,2025-03-25,Quas repudiandae neque cum.,Approved
+464,Emergency,2025-12-05,2025-12-10,Id unde nulla debitis.,Rejected
+192,Paid,2025-05-08,2025-05-10,Culpa expedita eius numquam incidunt fugit autem.,Approved
+49,Casual,2025-08-26,2025-08-30,Ipsum temporibus sint.,Approved
+478,Paid,2025-03-13,2025-03-17,Repellendus earum quidem nulla accusantium autem voluptates.,Approved
+369,Sick,2025-09-26,2025-09-28,Excepturi fugiat perspiciatis repellendus quasi consequatur itaque.,Rejected
+2,Paid,2025-08-04,2025-08-07,Optio quod provident adipisci provident blanditiis.,Approved
+349,Paid,2025-09-15,2025-09-20,Repellat nemo molestiae aut assumenda nobis.,Approved
+352,Sick,2025-08-08,2025-08-10,Quidem aliquam officia quae illo accusantium similique ex.,Approved
+357,Casual,2025-05-09,2025-05-12,Soluta facere a.,Approved
+116,Casual,2025-08-01,2025-08-02,Sed quas ad dolore perferendis.,Pending
+399,Sick,2025-07-18,2025-07-22,Est quos illo.,Approved
+403,Paid,2025-09-29,2025-10-01,Quaerat nihil aliquid.,Rejected
+462,Emergency,2025-09-16,2025-09-17,Corporis voluptates adipisci perferendis.,Rejected
+484,Sick,2025-07-19,2025-07-23,Quidem quibusdam cum.,Pending
+44,Sick,2025-09-18,2025-09-20,Eveniet corporis commodi necessitatibus occaecati quo.,Rejected
+100,Sick,2025-08-21,2025-08-25,Provident deserunt quae quod.,Approved
+107,Paid,2025-11-22,2025-11-27,Maiores inventore voluptatum reiciendis ducimus.,Approved
+357,Sick,2025-02-14,2025-02-17,Laborum rerum veniam.,Approved
+500,Casual,2025-06-28,2025-07-02,Laudantium laborum beatae molestiae.,Approved
+106,Sick,2025-08-15,2025-08-16,Vero reiciendis dolorum quisquam minima.,Approved
+200,Emergency,2025-07-25,2025-07-30,Repellendus amet laboriosam quo repellendus.,Approved
+176,Emergency,2025-12-10,2025-12-14,Provident hic eos nemo.,Approved
+500,Casual,2025-04-06,2025-04-09,Aut ipsam pariatur officia est eaque.,Approved
+92,Sick,2025-10-09,2025-10-14,Eum itaque sunt quo adipisci et.,Pending
+202,Casual,2025-02-26,2025-02-28,Aliquam fugiat quibusdam illum.,Approved
+116,Sick,2025-07-21,2025-07-22,Dolorum ad assumenda eligendi.,Approved
+377,Casual,2025-09-17,2025-09-21,Vel mollitia saepe facilis atque.,Approved
+240,Paid,2025-06-22,2025-06-27,Facere necessitatibus delectus inventore quis.,Approved
+388,Emergency,2025-08-21,2025-08-24,Adipisci vero amet deserunt impedit eveniet dolorum.,Approved
+306,Paid,2025-02-23,2025-02-24,Aliquid accusantium impedit odit rem.,Approved
+69,Sick,2025-06-03,2025-06-08,Quam nihil debitis ipsa quae.,Approved
+493,Paid,2025-12-10,2025-12-12,Nulla error necessitatibus qui ratione impedit.,Pending
+178,Emergency,2025-07-28,2025-07-31,Laborum debitis eum vero excepturi nisi cupiditate.,Approved
+16,Sick,2025-08-04,2025-08-06,Inventore nostrum nobis mollitia enim magnam.,Approved
+75,Paid,2025-05-12,2025-05-15,Quae nisi veniam maiores explicabo delectus vero voluptas.,Approved
+302,Sick,2025-11-14,2025-11-18,Quaerat ipsum quam perferendis temporibus officiis.,Approved
+306,Paid,2025-10-27,2025-10-30,Rem repudiandae magni blanditiis quas placeat ipsum.,Approved
+18,Paid,2025-04-21,2025-04-25,Amet ducimus facilis.,Pending
+491,Sick,2025-08-23,2025-08-25,Non vel repellat totam.,Approved
+303,Casual,2025-12-15,2025-12-18,Omnis aut harum quo accusantium eius voluptatem.,Approved
+446,Casual,2025-08-31,2025-09-05,Fugiat qui consequatur.,Approved
+30,Casual,2025-04-11,2025-04-16,Incidunt dolore a amet ipsa saepe blanditiis aut.,Approved
+216,Paid,2025-07-22,2025-07-26,Ducimus mollitia ullam tempora nostrum quaerat.,Approved
+99,Sick,2025-01-07,2025-01-12,Sunt quasi quis quisquam labore.,Approved
+464,Emergency,2025-10-17,2025-10-18,Accusantium impedit velit quam occaecati omnis vitae.,Approved
+410,Paid,2025-04-30,2025-05-01,Fugit praesentium temporibus nisi ad.,Rejected
+292,Emergency,2025-05-11,2025-05-15,Dolorem atque repellendus aut eius excepturi unde.,Rejected
+317,Sick,2025-11-10,2025-11-14,Sapiente laborum illum debitis suscipit officiis.,Approved
+213,Paid,2025-05-24,2025-05-29,Sequi totam nihil ex.,Pending
+62,Casual,2025-01-06,2025-01-08,Soluta perferendis repellat officiis sint eligendi.,Approved
+185,Sick,2025-02-06,2025-02-07,Distinctio animi beatae quaerat non.,Pending
+204,Paid,2025-03-08,2025-03-09,Totam aliquid neque recusandae culpa aliquid incidunt.,Pending
+313,Sick,2025-03-21,2025-03-23,Magnam quae iste fuga nesciunt vitae laboriosam blanditiis.,Approved
+298,Casual,2025-10-03,2025-10-05,Alias animi dolorem culpa natus provident recusandae.,Approved
+346,Emergency,2025-09-08,2025-09-11,Natus est ullam.,Pending
+14,Sick,2025-08-16,2025-08-20,Vel consectetur nisi libero.,Approved
+29,Sick,2025-08-29,2025-08-30,Mollitia aliquid ipsa cupiditate commodi.,Approved
+477,Casual,2025-11-16,2025-11-21,Ab exercitationem voluptatum qui nulla voluptatibus.,Approved
+107,Casual,2025-04-23,2025-04-24,Cupiditate molestiae corrupti.,Approved
+414,Emergency,2025-02-20,2025-02-22,Odio ullam voluptate earum.,Approved
+212,Paid,2025-08-14,2025-08-18,Ipsa dolores nesciunt doloribus quos cupiditate.,Approved
+54,Paid,2025-04-29,2025-05-02,Debitis eligendi alias eveniet iure qui quam.,Approved
+63,Sick,2025-01-25,2025-01-26,Veniam inventore ratione impedit consectetur eveniet magnam.,Pending
+331,Paid,2025-08-05,2025-08-07,Voluptatibus similique corporis nesciunt.,Approved
+401,Sick,2025-05-30,2025-06-04,Voluptates dicta odit nihil.,Approved
+438,Sick,2025-01-20,2025-01-25,Ratione ipsa voluptate hic dolorum.,Pending
+146,Emergency,2025-10-15,2025-10-17,Repellat consectetur veritatis debitis saepe quia adipisci.,Rejected
+169,Emergency,2025-07-26,2025-07-31,Fuga omnis omnis laudantium.,Pending
+267,Casual,2025-10-02,2025-10-05,Expedita perspiciatis architecto minima.,Pending
+344,Paid,2025-01-01,2025-01-04,Impedit repellendus magnam perspiciatis asperiores rem excepturi error.,Approved
+163,Casual,2025-10-14,2025-10-18,Amet explicabo velit cupiditate ex.,Rejected
+197,Casual,2025-11-05,2025-11-10,Sequi facilis sunt.,Approved
+311,Sick,2025-05-08,2025-05-12,Expedita ea occaecati explicabo et illum.,Pending
+270,Sick,2025-01-26,2025-01-30,Ea vel dolore quod praesentium eligendi temporibus provident.,Approved
+283,Casual,2025-04-11,2025-04-15,Corporis sint veniam esse est quos.,Approved
+412,Sick,2025-02-10,2025-02-12,Maxime consectetur ipsa.,Pending
+216,Emergency,2025-09-18,2025-09-21,Dolor numquam tempora repudiandae.,Pending
+414,Paid,2025-08-03,2025-08-04,Vero minima molestiae dolorum earum eum minima.,Approved
+433,Sick,2025-10-16,2025-10-17,Pariatur commodi illum repellat architecto ratione.,Approved
+33,Sick,2025-02-27,2025-03-04,Natus unde sequi excepturi quod amet.,Approved
+459,Casual,2025-10-09,2025-10-11,Quam iusto officia quidem error provident eos dolore.,Approved
+48,Sick,2025-10-31,2025-11-03,Laboriosam placeat saepe quis ipsam dolor non.,Approved
+387,Paid,2025-08-29,2025-08-31,Eos molestiae quisquam labore laboriosam voluptate voluptatum.,Approved
+181,Casual,2025-02-28,2025-03-05,Commodi quibusdam necessitatibus assumenda possimus veritatis.,Rejected
+482,Emergency,2025-10-02,2025-10-06,Unde ullam doloremque veritatis ipsum eius consectetur ipsum.,Approved
+171,Casual,2025-05-01,2025-05-06,Vel perferendis repellat tenetur necessitatibus.,Approved
+106,Sick,2025-06-20,2025-06-25,Eos accusamus at vero similique aliquam corporis possimus.,Approved
+256,Emergency,2025-10-06,2025-10-10,Labore et qui repudiandae.,Approved
+51,Emergency,2025-04-15,2025-04-17,Earum doloribus aliquid.,Approved
+233,Paid,2025-08-24,2025-08-29,Tenetur modi quas vitae.,Approved
+204,Paid,2025-12-16,2025-12-17,Quo possimus rerum porro recusandae.,Approved
+194,Paid,2025-04-14,2025-04-15,Reprehenderit natus magni deleniti.,Approved
+179,Casual,2025-05-30,2025-05-31,Dolorem corrupti ipsa possimus reiciendis ut.,Approved
+247,Paid,2025-08-19,2025-08-24,Fugiat sapiente corporis vero iure.,Pending
+193,Casual,2025-03-25,2025-03-30,Recusandae vero nemo eos quasi minima a.,Approved
+92,Emergency,2025-07-22,2025-07-23,Aliquam quasi ducimus nam tempore ullam odit.,Approved
+311,Emergency,2025-04-25,2025-04-27,Alias laboriosam nihil ratione atque.,Approved
+120,Sick,2025-08-08,2025-08-13,Ipsam possimus ducimus corrupti aut.,Approved
+469,Paid,2025-10-03,2025-10-07,In quis optio molestiae.,Approved
+175,Sick,2025-04-22,2025-04-26,Ipsum incidunt earum excepturi ad quam quae.,Approved
+330,Casual,2025-06-28,2025-07-02,Enim soluta cupiditate id vel.,Approved
+273,Paid,2025-04-07,2025-04-11,Porro vel optio debitis eaque impedit hic.,Rejected
+317,Emergency,2025-03-22,2025-03-24,Expedita ipsam corporis voluptatem vitae amet.,Approved
+200,Emergency,2025-08-18,2025-08-22,Amet eum non accusamus ipsam.,Approved
+20,Sick,2025-02-24,2025-02-26,Unde neque consectetur corrupti provident.,Approved
+371,Emergency,2025-03-20,2025-03-22,Amet magni unde placeat nam nisi.,Approved
+350,Sick,2025-01-05,2025-01-06,Aliquam dolore omnis placeat fugit.,Approved
+168,Emergency,2025-06-12,2025-06-16,Accusamus asperiores maxime iste amet porro.,Approved
+299,Casual,2025-02-27,2025-03-04,Nemo fugiat consectetur inventore tempore alias id.,Approved
+139,Sick,2025-01-28,2025-02-02,Excepturi tenetur doloribus optio.,Pending
+130,Sick,2025-10-25,2025-10-30,Quae perspiciatis consequatur consectetur.,Approved
+218,Paid,2025-03-25,2025-03-29,Voluptate tempore dolore sapiente dicta ipsa deserunt.,Approved
+399,Sick,2025-08-18,2025-08-20,Adipisci cumque esse praesentium.,Pending
+423,Casual,2025-01-08,2025-01-10,Vitae aliquid vero modi.,Pending
+335,Sick,2025-09-04,2025-09-08,Iure culpa neque debitis voluptas illo.,Approved
+271,Sick,2025-03-07,2025-03-08,Illo maxime labore vitae exercitationem animi.,Approved
+122,Paid,2025-08-25,2025-08-26,Distinctio in nostrum voluptas harum ut quisquam.,Approved
+165,Sick,2025-01-31,2025-02-04,Commodi quod ad ipsum.,Approved
+74,Casual,2025-02-09,2025-02-12,Veritatis id assumenda dolorem facilis vel.,Rejected
+218,Paid,2025-01-21,2025-01-26,Laborum dolorem veritatis placeat illo.,Approved
+427,Emergency,2025-08-18,2025-08-21,Dolore laudantium laudantium sequi.,Approved
+225,Emergency,2025-10-24,2025-10-28,Vel repudiandae corrupti dignissimos odio fugiat.,Approved
+274,Sick,2025-03-17,2025-03-20,Ratione repellat numquam amet ullam dolore sapiente.,Approved
+485,Sick,2025-01-14,2025-01-15,Deleniti provident eaque nostrum placeat officia.,Pending
+301,Casual,2025-10-21,2025-10-26,Laudantium veritatis itaque veritatis totam voluptatum.,Approved
+479,Emergency,2025-04-25,2025-04-29,Recusandae molestias nam adipisci ipsum ipsa similique.,Approved
+251,Casual,2025-08-08,2025-08-13,Ducimus id aliquam eius necessitatibus sint.,Approved
+98,Casual,2025-12-04,2025-12-06,Quia magnam repudiandae.,Approved
+396,Paid,2025-01-05,2025-01-09,Modi reiciendis officia aperiam quo.,Approved
+133,Paid,2025-03-04,2025-03-09,Ullam veritatis culpa eligendi asperiores sint.,Approved
+275,Casual,2025-09-06,2025-09-08,Odio aut fugit.,Approved
+71,Paid,2025-12-19,2025-12-24,Ad in aspernatur illo.,Approved
+212,Paid,2025-02-04,2025-02-07,Aut animi reiciendis amet.,Approved
+269,Paid,2025-05-13,2025-05-16,Nulla provident corporis perspiciatis.,Approved
+476,Emergency,2025-08-19,2025-08-23,Autem dolores architecto labore vel soluta minima.,Approved
+51,Emergency,2025-07-02,2025-07-05,Aut accusamus vel alias id mollitia.,Approved
+245,Casual,2025-07-24,2025-07-25,Velit laudantium quasi veniam animi aliquid.,Approved
+265,Sick,2025-06-19,2025-06-20,Veritatis laboriosam similique voluptates voluptatem ab error labore.,Pending
+439,Emergency,2025-07-12,2025-07-14,Aliquam inventore occaecati eligendi.,Approved
+411,Paid,2025-02-21,2025-02-24,Rerum illum nobis iste minima officiis voluptatum.,Approved
+188,Emergency,2025-01-10,2025-01-12,Cumque voluptates explicabo nisi nobis aut.,Approved
+124,Paid,2025-07-19,2025-07-20,Vel vero dolores in.,Approved
